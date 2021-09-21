@@ -88,3 +88,9 @@ th {
     background-color: #04AA6D;
     color: white;
 }
+
+.navbar-horizontal {
+    float: left;
+    color: #000;
+    background-color: #04AA6D;
+}
