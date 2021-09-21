@@ -36,6 +36,38 @@
     font-size: 20px;
 }
 
+.erlynne:hover {
+    text-shadow: rgb(81, 143, 224) 5px 0 12px;
+    color: rgb(81, 143, 224);
+    font-size: 20px;
+    border: 1px solid black;
+    display: inline;
+}
+
+.ladywindermere:hover {
+    text-shadow: rgb(81, 219, 208) 5px 0 12px;
+    color: rgb(81, 219, 208);
+    font-size: 20px;
+    border: 1px solid black;
+    display: inline;
+}
+
+.lordaugustus:hover {
+    text-shadow: rgb(247, 161, 63) 5px 0 12px;
+    color: rgb(247, 161, 63);
+    font-size: 20px;
+    border: 1px solid black;
+    display: inline;
+}
+
+.dumby:hover {
+    text-shadow: rgb(30, 27, 218) 5px 0 12px;
+    color: rgb(30, 27, 218);
+    font-size: 20px;
+    border: 1px solid black;
+    display: inline;
+}
+
 table {
     border: 1px solid black;
     width: auto;
